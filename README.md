@@ -1,7 +1,6 @@
 # Anomaly-Detection-Technique
 Anomaly detection technique identifies data patterns or instances that significantly differ from expected behavior, helping to spot outliers or unusual events.
-
-Anomaly detection is a technique used to identify unusual patterns, outliers, or anomalies in a dataset that do not conform to expected behavior. Python offers several libraries and techniques for anomaly detection. Below are the key methods and techniques commonly used:
+Python offers several libraries and techniques for anomaly detection. Below are the key methods and techniques commonly used:
 
 ## 1. Statistical Methods
 Z-Score or Standard Score: Measures the number of standard deviations a data point is from the mean. Use scipy.stats.zscore.
